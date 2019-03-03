@@ -47,3 +47,31 @@ What combination of skills are more likely to win UFC fights and predict perform
 ### What’s your next step towards making this your project.
 - Probably getting the data.
 
+________________________________________________________________________________________________________________________
+
+## Proposal 3 (Maybe I can get the data)
+
+
+### High-level description of the project.
+
+The purpose of this project will be using machine learning to predict the acres price for oil and gas development in the Denver-Julesburg Basin. 
+
+### What question or problem are you trying to solve?
+
+Currently, there is not a quantitative way to determine how much to pay for mineral rights royalties in the oil and gas industry. It is mostly through gut feelings and knowledge on how much other people had paid for similar deals. I would like to create a quantitative way of assessing properties values using formation thickness, pipeline access, nearby well production, and sweet spot estimations.  
+
+The data needed for this project will include formation top and bottoms, well production, pressure data, oil/gas ratios, TOC content, pipeline maps, and previous deals information.
+
+### How will you present your work?
+
+- Visualization
+- Presentation - slides
+
+### What are your data sources?
+
+- Most of this data can come from the United State Geological Survey API. https://www.usgs.gov/
+- For the pipeline maps, I will be US Energy Information Administration website. https://www.eia.gov/naturalgas/. 
+
+### What’s your next step towards making this your project.
+
+- Probably getting the data.
