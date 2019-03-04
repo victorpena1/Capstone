@@ -16,7 +16,7 @@ I would like to predict spot prices for the commodity and ETFs following the com
 ### What are your data sources?
 - For the Hery Hub Natural Gas spot price, US Natural Gas reserves (annually), Import & Exports (Monthly), and storage data (weekly), I will be using csv data from the US Energy Information Administration website. https://www.eia.gov/naturalgas/
 - For the ETFs, I will be using data from the Alpha Vantage API. https://www.alphavantage.co/
-- For the US weather averages (daily), I will use the NOAA database. https://www.ncdc.noaa.gov/cdo-web/
+- For the US weather averages (daily), I will use the Climate Engine database. https://app.climateengine.org/
 
 ### What’s your next step towards making this your project.
 - Probably getting the data.
